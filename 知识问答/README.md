@@ -43,3 +43,5 @@
 ## 索引
 
 - [Go 和 Golang 这两种叫法有区别吗？](./Go和Golang这两种叫法有区别吗.md)
+- [Go 语言的程序入口一定要是 package main 的 func main 吗？](./Go语言的程序入口一定要是package-main的func-main吗.md)
+- [GoLand 指南](./GoLand指南.md)
